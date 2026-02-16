@@ -1,0 +1,85 @@
+﻿CANTON,CANTON_ID,CANTON_MP,REGION,POBLACION,AREA KM2,DENSIDAD POBLACION
+ABANGARES,507,Abangares,Chorotega," 20,282 ", 646 , 31 
+ACOSTA,112,Acosta,Central," 22,257 ", 343 , 65 
+ALAJUELA,201,Alajuela,Central," 321,872 ", 392 , 822 
+ALAJUELITA,110,Alajuelita,Central," 97,158 ", 21 ," 4,527 "
+ALVARADO,306,Alvarado,Central," 15,615 ", 79 , 197 
+ASERRI,106,Aserrí,Central," 64,480 ", 168 , 383 
+ATENAS,205,Atenas,Central," 29,880 ", 126 , 237 
+BAGACES,504,Bagaces,Chorotega," 24,847 "," 1,278 ", 19 
+BARVA,402,Barva,Central," 48,190 ", 56 , 860 
+BELEN,407,Belén,Central," 26,853 ", 12 ," 2,167 "
+BUENOS AIRES,603,Buenos Aires,Brunca," 54,782 "," 2,383 ", 23 
+CANAS,506,Canas,Chorotega," 33,393 ", 687 , 49 
+CARRILLO,505,Carrillo,Chorotega," 47,756 ", 599 , 80 
+CARTAGO,301,Cartago,Central," 166,204 ", 279 , 596 
+CORREDORES,610,Corredores,Brunca," 53,484 ", 624 , 86 
+COTO BRUS,608,Coto Brus,Brunca," 44,280 ", 944 , 47 
+CURRIDABAT,118,Curridabat,Central," 80,677 ", 16 ," 5,020 "
+DESAMPARADOS,103,Desamparados,Central," 249,367 ", 119 ," 2,097 "
+DOTA,117,Dota,Central," 8,041 ", 404 , 20 
+EL GUARCO,308,El Guarco,Central," 46,959 ", 172 , 273 
+ESCAZU,102,Escazú,Central," 71,202 ", 35 ," 2,062 "
+ESPARZA,602,Esparza,Pacífico Central," 39,244 ", 217 , 181 
+FLORES,408,Flores,Central," 25,401 ", 7 ," 3,763 "
+GARABITO,611,Garabito,Pacífico Central," 27,404 ", 316 , 87 
+GOICOECHEA,108,Goicoechea,Central," 140,764 ", 32 ," 4,441 "
+GOLFITO,607,Golfito,Brunca," 33,687 "," 1,032 ", 33 
+GRECIA,203,Grecia,Central," 79,672 ", 142 , 559 
+GUACIMO,706,Guácimo,Huetar Caribe," 57,021 ", 802 , 71 
+GUATUSO,215,Guatuso,Huetar Norte," 19,696 ", 753 , 26 
+HEREDIA,401,Heredia,Central," 146,020 ", 283 , 516 
+HOJANCHA,511,Hojancha,Chorotega," 8,085 ", 263 , 31 
+JIMENEZ,304,Jiménez,Central," 16,361 ", 250 , 65 
+LA CRUZ,510,La Cruz,Chorotega," 28,071 "," 1,385 ", 20 
+LA UNION,303,La Unión,Central," 114,615 ", 44 ," 2,594 "
+LEON CORTES,120,León Cortés Castro,Central," 13,990 ", 122 , 115 
+LIBERIA,501,Liberia,Chorotega," 79,610 "," 1,442 ", 55 
+LIMON,701,Limón,Huetar Caribe," 100,236 "," 1,769 ", 57 
+LOS CHILES,214,Los Chiles,Huetar Norte," 35,188 "," 1,333 ", 26 
+MATINA,705,Matina,Huetar Caribe," 47,391 ", 770 , 62 
+MONTES DE OCA,115,Montes de Oca,Central," 62,844 ", 16 ," 3,983 "
+MONTES DE ORO,604,Montes de Oro,Pacífico Central," 14,587 ", 248 , 59 
+MONTEVERDE,612,Monteverde,Pacífico Central," 4,943 ", 53 , 92 
+MORA,107,Mora,Central," 30,759 ", 163 , 188 
+MORAVIA,114,Moravia,Central," 63,259 ", 29 ," 2,194 "
+NANDAYURE,509,Nandayure,Chorotega," 11,838 ", 568 , 21 
+NARANJO,206,Naranjo,Central," 49,764 ", 127 , 392 
+NICOYA,502,Nicoya,Chorotega," 57,624 "," 1,338 ", 43 
+OREAMUNO,307,Oreamuno,Central," 50,595 ", 203 , 249 
+OROTINA,209,Orotina,Pacífico Central," 24,448 ", 145 , 168 
+OSA,605,Osa,Brunca," 31,383 "," 1,933 ", 16 
+PALMARES,207,Palmares,Central," 41,805 ", 39 ," 1,074 "
+PARAISO,302,Paraíso,Central," 63,796 ", 477 , 134 
+PARRITA,609,Parrita,Pacífico Central," 20,984 ", 483 , 43 
+PEREZ ZELEDON,119,Pérez Zeledón,Brunca," 143,282 "," 1,901 ", 75 
+POAS,208,Poás,Central," 34,926 ", 74 , 469 
+POCOCI,702,Pococí,Huetar Caribe," 154,674 "," 2,188 ", 71 
+PUERTO JIMENEZ,613,Puerto Jimenez,Brunca," 12,836 ", 720 , 18 
+PUNTARENAS,601,Puntarenas,Pacífico Central," 138,932 "," 1,763 ", 79 
+PURISCAL,104,Puriscal,Central," 38,593 ", 555 , 70 
+QUEPOS,606,Quepos,Pacífico Central," 34,020 ", 558 , 61 
+RIO CUARTO,216,Río Cuarto,Huetar Norte," 16,510 ", 255 , 65 
+SAN CARLOS,210,San Carlos,Huetar Norte," 206,115 "," 3,352 ", 61 
+SAN ISIDRO,406,San Isidro,Central," 23,655 ", 27 , 887 
+SAN JOSE,101,San José,Central," 351,958 ", 45 ," 7,888 "
+SAN MATEO,204,San Mateo,Pacífico Central," 7,276 ", 125 , 58 
+SAN PABLO,409,San Pablo,Central," 31,519 ", 8 ," 3,779 "
+SAN RAFAEL,405,San Rafael,Central," 56,560 ", 48 ," 1,171 "
+SAN RAMON,202,San Ramón,Central," 95,794 "," 1,022 ", 94 
+SANTA ANA,109,Santa Ana,Central," 61,853 ", 61 ," 1,007 "
+SANTA BARBARA,404,Santa Bárbara,Central," 43,878 ", 52 , 842 
+SANTA CRUZ,503,Santa Cruz,Chorotega," 71,284 "," 1,321 ", 54 
+SANTO DOMINGO,403,Santo Domingo,Central," 49,835 ", 25 ," 1,963 "
+SARAPIQUI,410,Sarapiquí,Huetar Norte," 87,687 "," 2,144 ", 41 
+SARCHI,212,Sarchí,Central," 22,596 ", 137 , 165 
+SIQUIRRES,703,Siquirres,Huetar Caribe," 65,673 ", 855 , 77 
+TALAMANCA,704,Talamanca,Huetar Caribe," 44,802 "," 2,792 ", 16 
+TARRAZU,105,Tarrazú,Central," 18,787 ", 291 , 65 
+TIBAS,113,Tibás,Central," 86,065 ", 8 ," 10,419 "
+TILARAN,508,Tilarán,Chorotega," 21,984 ", 669 , 33 
+TURRIALBA,305,Turrialba,Central," 73,546 "," 1,589 ", 46 
+TURRUBARES,116,Turrubares,Central," 7,031 ", 416 , 17 
+UPALA,213,Upala,Huetar Norte," 55,466 "," 1,593 ", 35 
+VASQUEZ DE CORONADO,111,Vázquez de Coronado,Central," 72,932 ", 224 , 326 
+ZARCERO,211,Zarcero,Central," 14,629 ", 157 , 93 
